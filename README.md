@@ -12,19 +12,12 @@ This is a Python-based implementation of a 5-player Ludo game with an AI compone
 ## Installation
 To run the game, you need Python and Pygame installed. Follow these steps:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-
-2. **Install Dependencies**:
+ **Install Dependencies**:
    Ensure you have Python 3.6+ installed. Install Pygame using pip:
    ```bash
    pip install pygame
    ```
-
-3. **Run the Game**:
+ **Run the Game**:
    Execute the main script to start the game:
    ```bash
    python ludo_game.py
